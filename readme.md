@@ -1,4 +1,8 @@
+<img width="5406" height="900" alt="NekomasFixed" src="https://github.com/user-attachments/assets/912adc08-9cf0-4dd9-9876-bda07d54d4be" />
+
 # Nekoma's Fixed
+
+
 Based on the ideas of Youtuber Nekoma:
 [https://youtu.be/VifCRUAzg5U](https://www.youtube.com/@Nekoma7)
 
